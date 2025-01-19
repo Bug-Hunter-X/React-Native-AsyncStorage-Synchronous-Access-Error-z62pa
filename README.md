@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Native development involving the asynchronous nature of AsyncStorage.  The `bug.js` file showcases the incorrect synchronous access attempt.  The `bugSolution.js` file presents the corrected asynchronous approach using Promises or async/await, ensuring data is accessed correctly without blocking the main thread.
